@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c75b3c3-8e25-494e-bdd4-07471cd05e80" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/encode$MyMainTest.coverage" NAME="MyMainTest Coverage Results" MODIFIED="1532715902659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.gatech.seclass.encode.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="114" column="61" lean-forward="false" selection-start-line="106" selection-start-column="40" selection-end-line="114" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMainTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="520" column="0" lean-forward="false" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
+              <folding>
+                <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+                <element signature="e#2171#2227#0" expanded="false" />
+                <element signature="e#2466#2521#0" expanded="false" />
+                <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+                <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameworkMethod.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <marker date="1514223132000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1514223132000" expanded="false" signature="147:326" ph="..." />
+                <marker date="1514223132000" expanded="true" signature="476:685" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="716:727" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="746:752" ph=" }" />
+                <marker date="1514223132000" expanded="true" signature="852:1077" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="870:964" ph="runReflectiveCall() → {" />
+                <marker date="1514223132000" expanded="false" signature="1048:1063" ph="}" />
+                <marker date="1514223132000" expanded="false" signature="1106:1117" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="1146:1152" ph=" }" />
+                <marker date="1514223132000" expanded="true" signature="1236:1469" ph="{...}" />
+                <marker date="1514223132000" expanded="true" signature="1548:2081" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="2115:2126" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="2160:2166" ph=" }" />
+                <marker date="1514223132000" expanded="false" signature="2203:2214" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="2249:2255" ph=" }" />
+                <marker date="1514223132000" expanded="false" signature="2286:2297" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="2325:2331" ph=" }" />
+                <marker date="1514223132000" expanded="false" signature="2372:2383" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="2422:2428" ph=" }" />
+                <marker date="1514223132000" expanded="true" signature="2501:2586" ph="{...}" />
+                <marker date="1514223132000" expanded="true" signature="2643:3127" ph="{...}" />
+                <marker date="1514223132000" expanded="true" signature="3167:3289" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="3316:3327" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="3357:3363" ph=" }" />
+                <marker date="1514223132000" expanded="true" signature="3369:3387" ph="/**...*/" />
+                <marker date="1514223132000" expanded="true" signature="3447:3595" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="3639:3650" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="3689:3695" ph=" }" />
+                <marker date="1514223132000" expanded="false" signature="3737:3748" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="3784:3790" ph=" }" />
+                <marker date="1514223132000" expanded="true" signature="3867:3932" ph="{...}" />
+                <marker date="1514223132000" expanded="false" signature="3962:3973" ph=" { " />
+                <marker date="1514223132000" expanded="false" signature="4003:4009" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-d</find>
+      <find>creat</find>
+      <find>28</find>
+      <find>usage</find>
+      <find>25</find>
+      <find>usa</find>
+      <find>charset</find>
+      <find>-R</find>
+      <find>Failure Type: BUG</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/ExtraUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest1.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestexample.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestSuite.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java" />
+        <option value="$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="539" />
+    <option name="y" value="56" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="encode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="encode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Data Structures and Algorrithms - Lynda/Algorhithm_And_DataStructure_lynda/Exercise Files" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.gatech.seclass.encode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.gatech.seclass.encode" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTestSuite">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="encode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MainTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MainTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="encode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MainTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyMainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="encode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyMainTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="encode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest1" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MyMainTest.encodeTest48" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.gatech.seclass.encode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="encode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.gatech.seclass.encode" />
+      <option name="MAIN_CLASS_NAME" value="edu.gatech.seclass.encode.MyMainTest" />
+      <option name="METHOD_NAME" value="encodeTest48" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MyMainTest.encodeTest48" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MyMainTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MainTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MyMainTest1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MainTestSuite" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MainTestSuite" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyMainTest1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyMainTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MainTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MyMainTest.encodeTest48" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c75b3c3-8e25-494e-bdd4-07471cd05e80" name="Default" comment="" />
+      <created>1530144430769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530144430769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainTest - 2018.07.27 at 14h 28m 47s.xml">
+      <configuration name="MainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTestSuite - 2018.07.27 at 15h 23m 29s.xml">
+      <configuration name="MainTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTestSuite - 2018.07.27 at 15h 23m 45s.xml">
+      <configuration name="MainTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest - 2018.07.27 at 14h 25m 07s.xml">
+      <configuration name="MyMainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest - 2018.07.27 at 14h 29m 09s.xml">
+      <configuration name="MyMainTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest1 - 2018.07.27 at 14h 37m 13s.xml">
+      <configuration name="MyMainTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest_encodeTest43_2 - 2018.07.27 at 15h 23m 30s.xml">
+      <configuration name="MyMainTest.encodeTest43_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest_encodeTest48 - 2018.07.27 at 14h 23m 34s.xml">
+      <configuration name="MyMainTest.encodeTest48" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest_encodeTest9_2 - 2018.07.27 at 14h 19m 25s.xml">
+      <configuration name="MyMainTest.encodeTest9_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyMainTest_encodeTest9_2 - 2018.07.27 at 14h 20m 59s.xml">
+      <configuration name="MyMainTest.encodeTest9_2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45986986" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08306709" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48264644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26198083" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java</url>
+          <line>552</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java</url>
+          <line>281</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/rules/ExternalResource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1041" column="42" lean-forward="false" selection-start-line="1041" selection-start-column="42" selection-end-line="1041" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/rules/TemporaryFolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="171" column="16" lean-forward="false" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest1.java" />
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestexample.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1514223132000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514223132000" expanded="false" signature="147:326" ph="..." />
+            <marker date="1514223132000" expanded="true" signature="476:685" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="746:752" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="852:1077" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="870:964" ph="runReflectiveCall() → {" />
+            <marker date="1514223132000" expanded="false" signature="1048:1063" ph="}" />
+            <marker date="1514223132000" expanded="false" signature="1106:1117" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="1146:1152" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="1236:1469" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="1548:2081" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="2115:2126" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2203:2214" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2249:2255" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2286:2297" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2325:2331" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2372:2383" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2422:2428" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="2501:2586" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="2643:3127" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="3167:3289" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3316:3327" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3357:3363" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3369:3387" ph="/**...*/" />
+            <marker date="1514223132000" expanded="true" signature="3447:3595" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3639:3650" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3689:3695" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="3737:3748" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3784:3790" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3867:3932" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3962:3973" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="4003:4009" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="416" column="0" lean-forward="true" selection-start-line="416" selection-start-column="0" selection-end-line="416" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3604">
+          <caret line="212" column="26" lean-forward="false" selection-start-line="212" selection-start-column="26" selection-end-line="212" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="171" column="16" lean-forward="false" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1514223132000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514223132000" expanded="false" signature="147:326" ph="..." />
+            <marker date="1514223132000" expanded="true" signature="476:685" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="746:752" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="852:1077" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="870:964" ph="runReflectiveCall() → {" />
+            <marker date="1514223132000" expanded="false" signature="1048:1063" ph="}" />
+            <marker date="1514223132000" expanded="false" signature="1106:1117" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="1146:1152" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="1236:1469" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="1548:2081" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="2115:2126" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2203:2214" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2249:2255" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2286:2297" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2325:2331" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2372:2383" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2422:2428" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="2501:2586" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="2643:3127" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="3167:3289" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3316:3327" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3357:3363" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3369:3387" ph="/**...*/" />
+            <marker date="1514223132000" expanded="true" signature="3447:3595" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3639:3650" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3689:3695" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="3737:3748" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3784:3790" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3867:3932" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3962:3973" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="4003:4009" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1514223132000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514223132000" expanded="false" signature="147:326" ph="..." />
+            <marker date="1514223132000" expanded="true" signature="476:685" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="746:752" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="852:1077" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="870:964" ph="runReflectiveCall() → {" />
+            <marker date="1514223132000" expanded="false" signature="1048:1063" ph="}" />
+            <marker date="1514223132000" expanded="false" signature="1106:1117" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="1146:1152" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="1236:1469" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="1548:2081" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="2115:2126" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2203:2214" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2249:2255" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2286:2297" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2325:2331" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2372:2383" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2422:2428" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="2501:2586" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="2643:3127" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="3167:3289" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3316:3327" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3357:3363" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3369:3387" ph="/**...*/" />
+            <marker date="1514223132000" expanded="true" signature="3447:3595" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3639:3650" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3689:3695" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="3737:3748" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3784:3790" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3867:3932" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3962:3973" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="4003:4009" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="171" column="16" lean-forward="false" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="80" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="80" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/rules/RunRules.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/ExtraUnitTest.java" />
+    <entry file="file://$PROJECT_DIR$/encode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/rules/ExternalResource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1041" column="42" lean-forward="false" selection-start-line="1041" selection-start-column="42" selection-end-line="1041" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/rules/TemporaryFolder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest1.java" />
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestexample.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1514223132000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1514223132000" expanded="false" signature="147:326" ph="..." />
+            <marker date="1514223132000" expanded="true" signature="476:685" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="746:752" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="852:1077" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="870:964" ph="runReflectiveCall() → {" />
+            <marker date="1514223132000" expanded="false" signature="1048:1063" ph="}" />
+            <marker date="1514223132000" expanded="false" signature="1106:1117" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="1146:1152" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="1236:1469" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="1548:2081" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="2115:2126" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2160:2166" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2203:2214" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2249:2255" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2286:2297" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2325:2331" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="2372:2383" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="2422:2428" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="2501:2586" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="2643:3127" ph="{...}" />
+            <marker date="1514223132000" expanded="true" signature="3167:3289" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3316:3327" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3357:3363" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3369:3387" ph="/**...*/" />
+            <marker date="1514223132000" expanded="true" signature="3447:3595" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3639:3650" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3689:3695" ph=" }" />
+            <marker date="1514223132000" expanded="false" signature="3737:3748" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="3784:3790" ph=" }" />
+            <marker date="1514223132000" expanded="true" signature="3867:3932" ph="{...}" />
+            <marker date="1514223132000" expanded="false" signature="3962:3973" ph=" { " />
+            <marker date="1514223132000" expanded="false" signature="4003:4009" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/gatech/seclass/encode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="114" column="61" lean-forward="false" selection-start-line="106" selection-start-column="40" selection-end-line="114" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MainTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="520" column="0" lean-forward="false" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
+          <folding>
+            <element signature="method#createFile#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#createFileNotClosed#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#getFileContent#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest1#0;class#MyMainTest#0" expanded="false" />
+            <element signature="e#2171#2227#0" expanded="false" />
+            <element signature="e#2466#2521#0" expanded="false" />
+            <element signature="method#encodeTest2#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest3#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest4#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest5#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest6#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest7#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest8#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest9#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest10#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest11#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest12#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest13#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest14#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest15#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest16#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest17#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest18#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest19#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest20#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest21#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest22#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest23#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes24#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes25#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes26#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTes27#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest28#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest29#0;class#MyMainTest#0" expanded="false" />
+            <element signature="method#encodeTest30#0;class#MyMainTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/edu/gatech/seclass/encode/MyMainTest1.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
